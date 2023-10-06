@@ -28,7 +28,7 @@ Launch the index.html file in a web browser of your choice.
 
 <img width="949" alt="Screenshot-1" src="https://github.com/nirajccs1999/My_Business/assets/121447767/6a4ef278-f58b-4106-a946-5e9553de53e5">
 <img width="950" alt="Screenshot-2" src="https://github.com/nirajccs1999/My_Business/assets/121447767/e9c9b43d-ba14-45e2-ac85-05379bebe32f">
-<img width="949" alt="Screenshot-3" src="https://github.com/nirajccs1999/My_Business/assets/121447767/f36f775c-6053-4058-800f-197e9b7fc74
+<img width="949" alt="Screenshot-3" src="https://github.com/nirajccs1999/My_Business/assets/121447767/758b65ca-82b2-4366-8bd9-969b9af6a48a">
 <img width="945" alt="Screenshot-4" src="https://gith
 <img width="945" alt="Screenshot-5" src="https://github.com/nirajccs1999/My_Business/assets/121447767/662d9368-5943-4869-ad08-df6380586aea">
 ub.com/nirajccs1999/My_Business/assets/121447767/7be85439-513c-4f8d-bd00-855bf3c23ed6">
